@@ -7,3 +7,37 @@
     display: flex;
     flex-direction: row;
 }
+
+.full-width {
+    width: 100%;
+}
+
+.separate-evenly {
+    justify-content: space-evenly;
+}
+
+.margin-right-5pp {
+    margin-right: 5%;
+}
+
+.margin-top-5pp {
+    margin-top: 5%;
+}
+
+.width-30pp {
+    width: 30%;
+}
+
+.division {
+    border-top: 1px solid black;
+    width: 100%;
+    margin-top: 5%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.title {
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 5%;
+}
